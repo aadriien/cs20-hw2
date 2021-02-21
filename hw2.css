@@ -1,0 +1,63 @@
+header {
+    position: fixed;
+    background-color: #e6e6ff;
+    background-position: center top;
+    color: #000;
+    font-size: 30px;
+    font-style: Helvetica, Arial, Sans-Serif;
+    border: 2px dashed #000;
+    text-align: center;
+    padding: 15px;
+    opacity: 0.9;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-color: #e6f7ff;
+    background-image: 
+        url("https://images1.the-dots.com/1669923/jack-russel-looping.gif?p=projectImageFullJpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 50% auto;
+    margin-top: 0px;
+}
+
+body h1 {
+    text-align: center;
+    font-size: 55px;
+    font-style: Helvetica, Arial, Sans-Serif;
+    margin-top: 0px;
+}
+
+body h2 {
+    color: #0000b3;
+    text-shadow: -2px 1px 0px #fff, 
+                -5px 3px 0px #b3b3b3;
+}
+
+footer {
+    font-size: 30px; 
+    font-style: Helvetica, Arial, Sans-Serif;
+    color: #0000b3; 
+    position: fixed;
+    background-color: #e6e6ff;
+    background-position: center bottom;
+    border: 2px dashed #000;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    max-width: 100%;
+    opacity: 0.9;
+}
+
+
+
+
